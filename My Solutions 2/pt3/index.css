@@ -1,0 +1,50 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+html{
+    padding:0;
+    margin: 0;
+
+}
+.row {
+    height: 100px;
+    width: 100%;
+
+}
+.bigSpace {
+    height: 200px;
+    width:100%;
+    background-color: rgb(243, 245, 247);
+}
+.row1 {
+    background-color: rgb(161, 159, 159);
+    padding: 25px;
+    box-sizing: border-box;
+}
+.BR {
+    height: 50px;
+    width: 50px;
+    background-color: rgb(38, 128, 184);
+}
+.row2 {
+    padding: 50px;
+    box-sizing: border-box;
+    background-color: rgb(38, 128, 184);
+    
+}
+.row3 {
+    background-color: rgb(68, 230, 230);
+    padding: 50px;
+    box-sizing: border-box;
+}
+.row4 {
+    padding: 50px;
+    box-sizing: border-box;
+    background-color: rgb(172, 223, 106);
+}
+.row5 {
+    padding: 50px;
+    box-sizing: border-box;
+    background-color: yellow;
+}

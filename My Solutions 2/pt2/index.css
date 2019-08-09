@@ -1,0 +1,78 @@
+h1 {
+    
+    color:darkblue;
+    
+    
+}
+.topBox {
+    border:thick solid;
+    border-color: black;
+    height: 30vh;
+    width: 50vw;
+    margin: auto;
+    
+}
+.Purple {
+    background-color: blueviolet;
+    height: 125px;
+    width: 50px;
+    margin-left: 1vh;
+    margin-top: 5.7vh;
+    display: inline-block;
+    margin-bottom: .25vh;
+    position: relative;
+}
+.Green {
+    background-color: forestgreen;
+    height: 160px;
+    width: 425px;
+    margin-left: 6.5vh;
+    display: inline-block;
+    position: relative;
+    margin-top: 3.1vh;
+}
+.Circle{
+    background-color: lightsteelblue;
+    border-radius: 50%;
+    display: inline-block;
+    height: 150px;
+    width: 150px;
+    margin-left: 6vh; 
+}
+.Main{
+    border:dotted;
+    border-color: black;
+    height: 30vh;
+    width: 50vw;
+    margin: auto;
+    margin-top: 3vh;
+}
+.Sub{
+    
+    background-color: palegoldenrod;
+    height: 25vh;
+    width: 45vw;
+    display: inline-block; 
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    margin-left: 40px; 
+    margin-top: 2vh;
+    
+}
+.TextBox{
+    
+    box-shadow: 10px 10px 5px -9px rgba(0,0,0,0.75);
+    height: 25vh;
+    width: 30vw;
+    margin: auto;
+    margin-top: 3vh;
+    border-style: ridge;
+
+}
+.text {
+    height: 10vh;
+    width: 10vw;
+    
+    margin: auto;
+    font-size: 40px;
+    margin-top: 8vh;
+}

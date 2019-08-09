@@ -1,0 +1,22 @@
+ .body {
+    background-color: lightgrey;
+    margin: 0px;
+}
+.box1 {
+    background-color: rgb(63, 63, 63);
+    height: 100px;
+}
+.box2 {
+    background-color: white;
+    height: 775px;
+    width: 575px;
+    margin: 0 auto;
+    
+}
+.box3 {
+    background-color: black;
+    width: 575px;
+    margin: 0 auto;
+    height: 100px;
+
+}
