@@ -8,7 +8,7 @@ h1 {
     border:thick solid;
     border-color: black;
     height: 30vh;
-    width: 50vw;
+    width: 100%;
     margin: auto;
     
 }
@@ -43,7 +43,7 @@ h1 {
     border:dotted;
     border-color: black;
     height: 30vh;
-    width: 50vw;
+    width: 100%;
     margin: auto;
     margin-top: 3vh;
 }
@@ -51,7 +51,7 @@ h1 {
     
     background-color: palegoldenrod;
     height: 25vh;
-    width: 45vw;
+    width: 100%;
     display: inline-block; 
     box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
     margin-left: 40px; 

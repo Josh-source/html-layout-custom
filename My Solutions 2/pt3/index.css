@@ -13,9 +13,11 @@ html{
 
 }
 .bigSpace {
-    height: 200px;
+    height: 300px;
     width:100%;
     background-color: rgb(243, 245, 247);
+    text-align: center;
+    padding-top: 7rem;
 }
 .row1 {
     background-color: rgb(161, 159, 159);
